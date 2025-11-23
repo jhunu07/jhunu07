@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**jhunu07/jhunu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+**MERN Stack Developer • Full-Stack Engineer**
 
-Here are some ideas to get you started:
+I build scalable, production-ready applications using modern JavaScript technologies. My focus is on clean architectures, efficient APIs, and user-friendly interfaces. I enjoy turning ideas into working products through full-stack engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Frontend Development**  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Redux Toolkit  
+
+**Backend Development**  
+- Node.js  
+- Express.js  
+- REST API Design  
+- Authentication Systems (JWT, Clerk)
+
+**Database & Storage**  
+- MongoDB  
+- Mongoose  
+
+**Tools & Workflow**  
+- Git & GitHub  
+- Postman  
+- Vercel / Render  
+- Webhooks and API Integrations  
+
+---
+
+## Currently Focusing On  
+- Advanced React patterns  
+- Scalable backend architecture  
+- Production-grade deployments  
+- SaaS and real-time app development  
+
+---
+
+## Future Goals  
+- Build SaaS products with subscription features  
+- Explore WebSocket-based real-time systems  
+- Develop automation tools and developer utilities  
